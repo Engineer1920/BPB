@@ -1,4 +1,4 @@
-<h1 align="center"> پنل BPB</h1>
+<h1 align="center">ali panel</h1>
 
 #### 🌏 [English](README.md)
 
